@@ -1,99 +1,9 @@
-The Project Gutenberg EBook of Thyrza, by George Gissing
+= Thyrza
+George Gissing
+1887
+:toc:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Thyrza
-
-Author: George Gissing
-
-Posting Date: July 12, 2009 [EBook #4302]
-Release Date: July, 2003
-First Posted: January 3, 2002
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THYRZA ***
-
-
-
-
-Produced by Charles Aldarondo.  HTML version by Al Haines.
-
-
-
-
-
-
-
-
-
-THYRZA
-
-
-by
-
-GEORGE GISSING
-
-
-
-
-CONTENTS
-
-       I  AMONG THE HILLS
-      II  THE IDEALIST
-     III  A CORNER OF LAMBETH
-      IV  THYRZA SINGS
-       V  A LAND OF TWILIGHT
-      VI  DISINHERITED
-     VII  THE WORK IN PROGRESS
-    VIII  A CLASP OF HANDS
-      IX  A GOLDEN PROSPECT
-       X  TEMPTING FORTUNE
-      XI  A MAN WITH A FUTURE
-     XII  LIGHTS AND SHADOWS
-    XIII  THYRZA SINGS AGAIN
-     XIV  MISTS
-      XV  A SECOND VISIT TO WALNUT TREE WALK
-     XVI  SEA MUSIC
-    XVII  ADRIFT
-   XVIII  DRAWING NEARER
-     XIX  A SONG WITHOUT WORDS
-      XX  RAPIDS
-     XXI  MISCHIEF AFOOT
-    XXII  GOOD-BYE
-   XXIII  CONFESSION
-    XXIV  THE END OF THE DREAM
-     XXV  A BIRD OF THE AIR
-    XXVI  IDEALIST AND HIS FRIEND
-   XXVII  FOUND
-  XXVIII  HOPE SURPRISED
-    XXIX  TOGETHER AGAIN
-     XXX  MOVEMENTS
-    XXXI  AN OLD MAN'S REST
-   XXXII  TOTTY'S LUCK
-  XXXIII  THE HEART AND ITS SECRET
-   XXXIV  A LOAN ON SECURITY
-    XXXV  THREE LETTERS
-   XXXVI  THYRZA WAITS
-  XXXVII  A FRIENDLY OFFICE
- XXXVIII  THE TRUTH
-   XXXIX  HER RETURN
-      XL  HER REWARD
-     XLI  THE LIVING
-
-
-
-
-CHAPTER I
-
-AMONG THE HILLS
-
+== CHAPTER I: Among the Hills
 
 There were three at the breakfast-table--Mr. Newthorpe, his daughter
 Annabel, and their visitor (Annabel's Cousin), Miss Paula Tyrrell. It
@@ -493,12 +403,7 @@ his bag this afternoon; he left it at the hotel.'
 shall hear all about it to-night.'
 
 
-
-
-CHAPTER II
-
-THE IDEALIST
-
+== Chapter II: The Idealist
 
 When Egremont began his acquaintance with the Newthorpes he was an
 Oxford undergraduate. A close friendship had sprung up between him and
@@ -1123,10 +1028,7 @@ cloud.
 
 
 
-CHAPTER III
-
-A CORNER OF LAMBETH
-
+== CHAPTER III: A CORNER OF LAMBETH
 
 A working man, one Gilbert Grail, was spending an hour of his Saturday
 afternoon in Westminster Abbey. At five o'clock the sky still pulsed
@@ -1669,10 +1571,7 @@ where he was.
 
 
 
-CHAPTER IV
-
-THYRZA SINGS
-
+== CHAPTER IV: THYRZA SINGS
 
 Lydis, too, betrayed some disturbance of thought as she pursued her
 way. Her face was graver than before: once or twice her lips moved as
@@ -2257,10 +2156,7 @@ back. You'll be friends with me and Lyddy?'
 
 
 
-CHAPTER V
-
-A LAND OF TWILIGHT
-
+== CHAPTER V: A LAND OF TWILIGHT
 
 It happened that Mrs. Jarmey, the landlady of the house in which the
 sisters lived, had business in the neighbourhood of the 'Prince
@@ -2832,10 +2728,7 @@ She ran on, and Ackroyd sauntered away without a glance after her.
 
 
 
-CHAPTER VI
-
-DISINHERITED
-
+== CHAPTER VI: DISINHERITED
 
 When Thyrza left the two at tea and went downstairs, she knocked at the
 door of the front parlour on the ground floor. The room which she
@@ -3577,10 +3470,7 @@ Gilbert smiled, but made no further remark. The evening silence set in.
 
 
 
-CHAPTER VII
-
-THE WORK IN PROGRESS
-
+== CHAPTER VII: THE WORK IN PROGRESS
 
 On the sheltered side of Eastbourne, just at the springing of the downs
 as you climb towards Beachy Head, is a spacious and heavy-looking stone
@@ -4169,10 +4059,7 @@ you.'
 
 
 
-CHAPTER VIII
-
-A CLASP OF HANDS
-
+== CHAPTER VIII: A CLASP OF HANDS
 
 Grail approached the desk with pleasure. Egremont observed it, and met
 his trusty auditor with the eye-smile which made his face so agreeable.
@@ -4617,10 +4504,7 @@ began singing. He did not offer to accompany Grail up to the door.
 
 
 
-CHAPTER IX
-
-A GOLDEN PROSPECT
-
+== CHAPTER IX: A GOLDEN PROSPECT
 
 It wanted a week to Christmas. For many days the weather had been as
 bad as it can be even in London. Windows glimmered at noon with the
@@ -5399,10 +5283,7 @@ to look at the upper windows.
 
 
 
-CHAPTER X
-
-TEMPTING FORTUNE
-
+== CHAPTER X: TEMPTING FORTUNE
 
 Thyrza continued to be far from well. The day-long darkness encouraged
 her natural tendency to sad dreaming. When alone, in Lydia's absence at
@@ -6022,10 +5903,7 @@ She did not wait for anything more from him.
 
 
 
-CHAPTER XI
-
-A MAN WITH A FUTURE
-
+== CHAPTER XI: A MAN WITH A FUTURE
 
 Mr. Dalmaine first turned his attention to politics at the time when
 the question of popular education was to the front in British politics.
@@ -6687,10 +6565,7 @@ affectionately,
 
 
 
-CHAPTER XII
-
-LIGHTS AND SHADOWS
-
+== CHAPTER XII: LIGHTS AND SHADOWS
 
 Egremont's face, it was true, showed that things were not altogether
 well with him. It was not ill-health, but mental restlessness, which
@@ -6954,10 +6829,7 @@ given it both a sadder and a dearer significance.
 
 
 
-CHAPTER XIII
-
-THYRZA SINGS AGAIN
-
+== CHAPTER XIII: THYRZA SINGS AGAIN
 
 Egremont had a fear that he might seem ungrateful to the man Bower. It
 was Bower to whom he had gone for help when he first sought to gather
@@ -7355,10 +7227,7 @@ room. I wonder whether you'll guess the same.'
 
 
 
-CHAPTER XIV
-
-MISTS
-
+== CHAPTER XIV: MISTS
 
 Paula Tyrrell was married at Easter. Convenience dictated this
 speed--in other words, Paula resolved to commence the season as Mrs.
@@ -7852,10 +7721,7 @@ Egremont's work.
 
 
 
-CHAPTER XV
-
-A SECOND VISIT TO WALNUT TREE WALK
-
+== CHAPTER XV: A SECOND VISIT TO WALNUT TREE WALK
 
 The man of reserve betrays happiness by disposition for companionship.
 Surprised that the world all at once looks so bright to his own eyes,
@@ -8404,10 +8270,7 @@ fortune would be unkind to her; she had faith in the undiscovered day.
 
 
 
-CHAPTER XVI
-
-SEA MUSIC
-
+== CHAPTER XVI: SEA MUSIC
 
 Returning to the upper room, Thyrza sat down as if she were very tired.
 
@@ -8995,10 +8858,7 @@ beautiful is hope.'
 
 
 
-CHAPTER XVII
-
-ADRIFT
-
+== CHAPTER XVII: ADRIFT
 
 It was partly out of kindness to Thyrza that Totty Nancarrow had
 changed her mind about going to Eastbourne. Having seen her and
@@ -9535,10 +9395,7 @@ home, she crossed herself and murmured something.
 
 
 
-CHAPTER XVIII
-
-DRAWING NEARER
-
+== CHAPTER XVIII: DRAWING NEARER
 
 Lydia had a little rule of self-discipline which deserved to be, and
 was, its own reward. If ever personal troubles began to worry her she
@@ -9976,10 +9833,7 @@ The two unlike faces continued to lie uppermost.
 
 
 
-CHAPTER XIX
-
-A SONG WITHOUT WORDS
-
+== CHAPTER XIX: A SONG WITHOUT WORDS
 
 Whilst the repairs were going on in the house behind the school, the
 old caretaker still lived there. Egremont found that she had in truth
@@ -10754,10 +10608,7 @@ must be without companion.
 
 
 
-CHAPTER XX
-
-RAPIDS
-
+== CHAPTER XX: RAPIDS
 
 In the crowd with which they mingled on passing out again, Thyrza saw
 men in evening dress; she looked in every direction for Egremont, but
@@ -11277,10 +11128,7 @@ often they seemed to have held each other's hand!
 
 
 
-CHAPTER XXI
-
-MISCHIEF AFOOT
-
+== CHAPTER XXI: MISCHIEF AFOOT
 
 It would have been a remarkable thing if Egremont had succeeded, even
 for a day or two, in keeping secret his work at the library. The vulgar
@@ -11701,10 +11549,7 @@ own hand.
 
 
 
-CHAPTER XXII
-
-GOOD-BYE
-
+== CHAPTER XXII: GOOD-BYE
 
 Left alone, after Thyrza's second visit to him in the library, Egremont
 had no mind to continue his task. He idled about for a while, read half
@@ -12433,10 +12278,7 @@ thence walked to his own part of the town.
 
 
 
-CHAPTER XXIII
-
-CONFESSION
-
+== CHAPTER XXIII: CONFESSION
 
 This Wednesday morning Lydia went to her work reluctantly. Thyrza was
 so strange; it looked as if she was going to have an illness. Again
@@ -13318,10 +13160,7 @@ The other sighed deeply, and after that lay still.
 
 
 
-CHAPTER XXIV
-
-THE END OF THE DREAM
-
+== CHAPTER XXIV: THE END OF THE DREAM
 
 Gilbert did not go to work next morning. Though Lydia had disguised her
 sister's strange condition as well as she could, he knew that something
@@ -14146,10 +13985,7 @@ She allowed him to walk away.
 
 
 
-CHAPTER XXV
-
-A BIRD OF THE AIR
-
+== CHAPTER XXV: A BIRD OF THE AIR
 
 When Paula had been three or four days wedded, it occurred to her to
 examine her husband's countenance. They were at breakfast at Biarritz,
@@ -14583,10 +14419,7 @@ the sun.''
 
 
 
-CHAPTER XXVI
-
-IDEALIST AND HIS FRIEND
-
+== CHAPTER XXVI: IDEALIST AND HIS FRIEND
 
 Egremont alighted one evening at Charing Cross. He came direct from
 Paris, and was alone. His absence from England had extended over a
@@ -15248,10 +15081,7 @@ asleep.
 
 
 
-CHAPTER XXVII
-
-FOUND
-
+== CHAPTER XXVII: FOUND
 
 Mrs. Ormonde waited anxiously for Annabel's first letter from London.
 Neither of them had spoken of Egremont after Annabel's visit with the
@@ -16032,10 +15862,7 @@ any one could have desired.
 
 
 
-CHAPTER XXVIII
-
-HOPE SURPRISED
-
+== CHAPTER XXVIII: HOPE SURPRISED
 
 Mrs. Tyrrell and Annabel were lunching with friends somewhere: Mr.
 Newthorpe had just taken a solitary meal in the room which he used for
@@ -16635,10 +16462,7 @@ the cottage which was her present home.
 
 
 
-CHAPTER XXIX
-
-TOGETHER AGAIN
-
+== CHAPTER XXIX: TOGETHER AGAIN
 
 Lydia held desperately to hope through the days and the nights. From
 all others Thyrza might hide away, but could she persist in cruelty to
@@ -17324,10 +17148,7 @@ the sound of it, and the salt taste on my lips!'
 
 
 
-CHAPTER XXX
-
-MOVEMENTS
-
+== CHAPTER XXX: MOVEMENTS
 
 'We are going first of all to the Pilkingtons', in Warwickshire,' said
 Annabel, talking with Mrs. Ormonde at the latter's hotel in the last
@@ -17774,10 +17595,7 @@ self-approbation on the firmness and suavity he had displayed.
 
 
 
-CHAPTER XXXI
-
-AN OLD MAN'S REST
-
+== CHAPTER XXXI: AN OLD MAN'S REST
 
 It was not without much reluctance, much debate with conscience, that
 Bunce allowed his child to remain at Eastbourne. He could not, of
@@ -18380,10 +18198,7 @@ of death and the hope that is thereafter.
 
 
 
-CHAPTER XXXII
-
-TOTTY'S LUCK
-
+== CHAPTER XXXII: TOTTY'S LUCK
 
 'The Little Shop with the Large Heart' had suffered a grave loss: Miss
 Totty Nancarrow had withdrawn her custom from it.
@@ -18978,10 +18793,7 @@ But she was glad--and Luke Ackroyd was glad.
 
 
 
-CHAPTER XXXIII
-
-THE HEART AND ITS SECRET
-
+== CHAPTER XXXIII: THE HEART AND ITS SECRET
 
 Thyrza was not to be a boarder with the Emersons, nor did Mrs. Ormonde
 request them to make a friend of her. Nothing more was proposed than
@@ -19394,10 +19206,7 @@ Lydia was shocked, and wondered grieving.
 
 
 
-CHAPTER XXXIV
-
-A LOAN ON SECURITY
-
+== CHAPTER XXXIV: A LOAN ON SECURITY
 
 Yet again it was summer-time, the second summer since the parting
 between Lydia and her sister, all but the end of the second twelvemonth
@@ -20183,10 +19992,7 @@ independence--characteristic to the end.
 
 
 
-CHAPTER XXXV
-
-THREE LETTERS
-
+== CHAPTER XXXV: THREE LETTERS
 
 _Walter Egremont to Mrs. Ormonde._
 
@@ -20572,10 +20378,7 @@ leave trade behind me, thrice glad to hold your hand.'
 
 
 
-CHAPTER XXXVI
-
-THYRZA WAITS
-
+== CHAPTER XXXVI: THYRZA WAITS
 
 'I can't promise, Mrs. Emerson, that my sister will come down and have
 tea with you. Please don't make any preparations; it's only perhaps.'
@@ -20972,10 +20775,7 @@ down the stairs, as if for an ordinary walk, and left the house.
 
 
 
-CHAPTER XXXVII
-
-A FRIENDLY OFFICE
-
+== CHAPTER XXXVII: A FRIENDLY OFFICE
 
 On the Friday when Thyrza, in her happiness, had said 'Tomorrow he
 comes,' Mrs. Ormonde also was thinking of a visitor, who might arrive
@@ -21364,10 +21164,7 @@ visit to the Newthorpes after two years of absence was natural enough.
 
 
 
-CHAPTER XXXVIII
-
-THE TRUTH
-
+== CHAPTER XXXVIII: THE TRUTH
 
 Mrs. Ormonde was successful, but success did not bring her unmixed
 content. She was persuaded that what she had done was wholly prudent,
@@ -21928,10 +21725,7 @@ falling upon them, and went away.
 
 
 
-CHAPTER XXXIX
-
-HER RETURN
-
+== CHAPTER XXXIX: HER RETURN
 
 It was a rainy autumn, and to Thyrza the rain was welcome. A dark,
 weeping sky helped her to forget that there was joy somewhere in the
@@ -22372,10 +22166,7 @@ parted. 'And perhaps I shall stay over Sunday. May I?'
 
 
 
-CHAPTER XL
-
-HER REWARD
-
+== CHAPTER XL: HER REWARD
 
 This was on Thursday. The two days which followed were such as come
 very rarely in a London winter. Fog had vanished; the ways were clean
@@ -22881,10 +22672,7 @@ from the obscured sky.
 
 
 
-CHAPTER XLI
-
-THE LIVING
-
+== CHAPTER XLI: THE LIVING
 
 This winter the Newthorpes spent abroad. Mr. Newthorpe was in very
 doubtful health when he went to Ullswater, just before Egremont's
