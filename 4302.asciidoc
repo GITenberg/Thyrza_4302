@@ -402,9 +402,6 @@ his bag this afternoon; he left it at the hotel.’
 ‘Some idealistic project. He has only given me a hint. I dare say we
 shall hear all about it to-night.’
 
-
-
-
 == Chapter II: THE IDEALIST
 
 When Egremont began his acquaintance with the Newthorpes he was an
@@ -1027,9 +1024,6 @@ presently looked back from the carriage window. The house was already
 out of view, and the summits of the circling hills were wreathed with
 cloud.
 
-
-
-
 == Chapter III: A CORNER OF LAMBETH
 
 A working man, one Gilbert Grail, was spending an hour of his Saturday
@@ -1570,9 +1564,6 @@ unconsciously passed the door of the house in which he lived, and had
 to turn when the roar of a train passing over the archway reminded him
 where he was.
 
-
-
-
 == Chapter IV: THYRZA SINGS
 
 Lydis, too, betrayed some disturbance of thought as she pursued her
@@ -1935,11 +1926,14 @@ ditty of the most sentimental character, telling of the disappearance
 of a young lady to whom he was devoted. The burden, in which all bore a
 part, ran thus:
 
-  We trecked ‘er little footprints in the snayoo,
-  We trecked ‘er little footprints in the snayoo,
-  I shall ne’er forget the d'y
-  When Jenny lost her w'y,
-  And we trecked ‘er little footprints in the snayoo!
+[verse]
+____
+We trecked ‘er little footprints in the snayoo,
+We trecked ‘er little footprints in the snayoo,
+I shall ne’er forget the d'y
+When Jenny lost her w'y,
+And we trecked ‘er little footprints in the snayoo!
+____
 
 It was known that the singer had thoughts of cultivating his talent and
 of appearing on the music-hall stage; it was not unlikely that he might
@@ -1954,9 +1948,12 @@ The Vice was a frisky little man. He began with what is known as
 damsel whom he had seen only once to lose sight of for ever. And the
 refrain was:
 
-  She wore a lov-e-lie bonnet
-  With fruit end flowers upon it,
-  End she dwelt in the henvirons of ‘Ol-lo-w'y!
+[verse]
+____
+She wore a lov-e-lie bonnet
+With fruit end flowers upon it,
+End she dwelt in the henvirons of ‘Ol-lo-w'y!
+____
 
 As yet only men had sung; solicitation had failed with such of the
 girls as were known to be musically given. Yet an earnest prayer from
@@ -1966,10 +1963,13 @@ gruesome green feather; she sang with her eyes down, and in a voice
 which did not lack a certain sweetness. The ballad was of springtime
 and the country and love.
 
-  Underneath the May-tree blossoms
-  Oft we’ve wandered, you and I,
-  Listening to the mill-stream’s whisper,
-  Like a stream soft-gliding by.
+[verse]
+____
+Underneath the May-tree blossoms
+Oft we’ve wandered, you and I,
+Listening to the mill-stream’s whisper,
+Like a stream soft-gliding by.
+____
 
 The girl had a drunken mother, and spent a month or two of every year
 in the hospital, for her day’s work overtaxed her strength. She was one
@@ -2154,9 +2154,6 @@ back. You’ll be friends with me and Lyddy?’
 ‘You’ll come out with her to-morrow?’
 
 ‘I can’t promise. Good-night!’
-
-
-
 
 == Chapter V: A LAND OF TWILIGHT
 
@@ -2726,9 +2723,6 @@ of such different things.’
 Bower is waiting for me.’
 
 She ran on, and Ackroyd sauntered away without a glance after her.
-
-
-
 
 == Chapter VI: DISINHERITED
 
@@ -3314,7 +3308,8 @@ the writing.
 He found a short letter, and a printed slip which looked like a
 circular. The former ran thus:
 
-
+[quote,‘WALTER EGREMONT.’]
+____
 ‘Sir,—I am about to deliver a course of evening lectures on a period
 of English Literature in a room which I have taken for the purpose,
 No.—High Street, Lambeth. I desire to have a small audience, not more
@@ -3334,9 +3329,7 @@ September.
 
 ‘Reply to this is unnecessary; I hope to have the pleasure of meeting
 you on the 16th.—Believe me to be yours very truly,
-
-‘WALTER EGREMONT.’
-
+____
 
 ‘Ah, this is what Ackroyd was speaking of on Saturday,’ Gilbert
 remarked, holding the letter to his mother. ‘I wonder what it means.’
@@ -3468,9 +3461,6 @@ mother before she was born. She wants me to tell her and her sister all
 I can remember. Now, isn’t it nice?’
 
 Gilbert smiled, but made no further remark. The evening silence set in.
-
-
-
 
 == Chapter VII: THE WORK IN PROGRESS
 
@@ -4024,6 +4014,7 @@ home of his good plain father, would have felt what now he did. The
 soil was there, but how much do we not owe to tillage. Read what
 Egremont on one occasion read to these men:
 
+[quote]
 '“He beginneth not with obscure definitions, which must blur the
 margins with interpretations and load the memory with doubtfulness: but
 he cometh to you with words set in delightful proportion, either
@@ -4057,9 +4048,6 @@ was also going, when Egremont said:
 
 ‘Could you spare me five minutes, Mr. Grail; I should like to speak to
 you.’
-
-
-
 
 == Chapter VIII: A CLASP OF HANDS
 
@@ -4502,9 +4490,6 @@ Gilbert gave his hand for leave-taking.
 
 Ackroyd shook his head again, then tossed the child into the air and
 began singing. He did not offer to accompany Grail up to the door.
-
-
-
 
 == Chapter IX: A GOLDEN PROSPECT
 
@@ -5064,7 +5049,8 @@ the envelope. ‘More about the library I expect.’
 
 He read to himself.
 
-
+[quote,‘WALTER EGREMONT.’]
+____
 ‘My dear Grail,—I have decided to take the school building on a lease
 of seven years, after again carefully examining it and finding it still
 to my mind. It will be free at the end of March. By that time I hope to
@@ -5104,9 +5090,7 @@ accept or reject it as you see fit.
 
 ‘I leave town to-day for about a week. Will you write to me at the end
 of that time?—Always yours, my dear Grail,
-
-‘WALTER EGREMONT.’
-
+____
 
 Mrs. Grail showed no curiosity about the letter; the subject of the
 interrupted conversation held her musing. When Gilbert had folded the
@@ -5281,9 +5265,6 @@ There was no work to rise to on the morrow. With a clear conscience
 Gilbert could sit on into the still hours which were so precious to
 him. And again, before going to rest, he stepped quietly from the house
 to look at the upper windows.
-
-
-
 
 == Chapter X: TEMPTING FORTUNE
 
@@ -5902,9 +5883,6 @@ again. Good-bye, Mr. Ackroyd.’
 
 She did not wait for anything more from him.
 
-
-
-
 == Chapter XI: A MAN WITH A FUTURE
 
 Mr. Dalmaine first turned his attention to politics at the time when
@@ -6519,7 +6497,8 @@ luncheon. After speaking with Mrs. Tyrrell, he had a private interview
 with Paula. The event was referred to in a letter Paula addressed to
 her cousin Annabel in the course of the ensuing week.
 
-
+[quote,‘PAULA TYRRELL’]
+____
 ‘Dear Bell,—We are much relieved by your letter. It is of course
 impossible to stay among those mountains for the rest of the winter; I
 hope uncle will very soon be well enough to come south. The plan of
@@ -6561,11 +6540,7 @@ place hasn’t killed you both. I shall be so glad to see you again, for
 I do really like you, Bell, and I know you are awfully wise and good.
 Think of me sometimes and hope that I shall be happy.—Yours
 affectionately,
-
-‘PAULA TYRRELL’
-
-
-
+____
 
 == Chapter XII: LIGHTS AND SHADOWS
 
@@ -6797,7 +6772,8 @@ very recently written to Mr. Newthorpe, who was not yet well enough to
 attempt the journey southwards; this reply by another hand might
 signify ill news. And that proved to be the case. Annabel wrote:
 
-
+[quote,‘ANNABEL NEWTHORPE.’]
+____
 ‘Dear Mr. Egremont,—Father desires me to answer your very kind letter
 of a week ago. He has delayed, hoping from day to day to be able to
 write himself. I grieve to say that he is suffering more than at any
@@ -6819,17 +6795,12 @@ never know.
 
 ‘The Tyrrells will have constant news of father, and I am sure will
 gladly send it on to you.—I am, dear Mr. Egremont, yours sincerely,
-
-‘ANNABEL NEWTHORPE.’
-
+____
 
 It was the first letter he had received from Annabel. For some days he
 kept it close at hand, and looked over it frequently; then it was laid
 away with care, not again to be read until the passing of years had
 given it both a sadder and a dearer significance.
-
-
-
 
 == Chapter XIII: THYRZA SINGS AGAIN
 
@@ -7225,9 +7196,6 @@ this time: Mr. Egremont said he was just going.’
 room. I wonder whether you’ll guess the same.’
 
 ‘Come along, then!’
-
-
-
 
 == Chapter XIV: MISTS
 
@@ -7719,9 +7687,6 @@ individual come before the crowd.’
 
 And all agreed that in Gilbert Grail was the best result hitherto of
 Egremont’s work.
-
-
-
 
 == Chapter XV: A SECOND VISIT TO WALNUT TREE WALK
 
@@ -8268,9 +8233,6 @@ Surely—thought Egremont as he smiled—to you if to any one the sky
 should show a glad face. How many a time thereafter did he think of
 those words—‘It would be too cruel!’ She could not believe that
 fortune would be unkind to her; she had faith in the undiscovered day.
-
-
-
 
 == Chapter XVI: SEA MUSIC
 
@@ -8857,9 +8819,6 @@ Annabel looked inquiringly.
 ‘Never mind! The world has beautiful things in it, and one of the most
 beautiful is hope.’
 
-
-
-
 == Chapter XVII: ADRIFT
 
 It was partly out of kindness to Thyrza that Totty Nancarrow had
@@ -8940,12 +8899,15 @@ fastening the ends with nine knots. Fasten them with one of your
 garters to your left wrist on going to bed, and bind the other garter
 round your head; then say:
 
-  St. Peter, take it not amiss,
-  To try your favour I’ve done this.
-  You are the ruler of the keys,
-  Favour me, then, if you please;
-  Let me then your influence prove,
-  And see my dear and wedded love.
+[verse]
+____
+St. Peter, take it not amiss,
+To try your favour I’ve done this.
+You are the ruler of the keys,
+Favour me, then, if you please;
+Let me then your influence prove,
+And see my dear and wedded love.
+____
 
 This must be done on the eve of St. Peter’s, and is an old charm used
 by the maidens of Rome in ancient times, who put great faith in it.''
@@ -9394,9 +9356,6 @@ She walked with him to the end of the street, then watched him to his
 house. She was pleased; she was ashamed; she was afraid. Turning to go
 home, she crossed herself and murmured something.
 
-
-
-
 == Chapter XVIII: DRAWING NEARER
 
 Lydia had a little rule of self-discipline which deserved to be, and
@@ -9831,9 +9790,6 @@ up.’
 ‘Oh, very well, dear.’
 
 The two unlike faces continued to lie uppermost.
-
-
-
 
 == Chapter XIX: A SONG WITHOUT WORDS
 
@@ -10607,9 +10563,6 @@ yet in some doubt whether he was alone. But he had not yet spoken to
 that lady next to him, and now, on sitting down, he did not speak. He
 must be without companion.
 
-
-
-
 == Chapter XX: RAPIDS
 
 In the crowd with which they mingled on passing out again, Thyrza saw
@@ -11127,9 +11080,6 @@ A pronoun was lost; something prevented its utterance. Egremont made no
 reply. Thyrza found power to hold her hand out and take leave. How
 often they seemed to have held each other’s hand!
 
-
-
-
 == Chapter XXI: MISCHIEF AFOOT
 
 It would have been a remarkable thing if Egremont had succeeded, even
@@ -11531,14 +11481,13 @@ had held her honesty as sure as the rising of day out of night.
 
 Half an hour later he sat in his bedroom writing:
 
-
+[quote,‘LUKE ACKROYD.’]
+____
 ‘Dear Miss Trent,—I want very much to see you. I will wait in
 Kennington Road, opposite the end of your street, from eight o’clock
 to-morrow night (Wednesday). Please do come. I _must_ see you, and I
 wish no one to know of our meeting. ‘Yours truly,
-
-‘LUKE ACKROYD.’
-
+____
 
 He addressed this to Lydia, ‘Miss Lydia Trent,’ that there might be no
 mistake, and went out to post it. But at the letter-box he altered his
@@ -11547,9 +11496,6 @@ would lead to questionings.
 
 He determined to deliver it at the hat factory in the morning, with his
 own hand.
-
-
-
 
 == Chapter XXII: GOOD-BYE
 
@@ -12276,9 +12222,6 @@ anxious only to get away from the sight of men. Thyrza must be home by
 this time. That speech with Gilbert had chilled him, and now he was hot
 with self-contempt. He made his way out into Westminster Bridge Road,
 thence walked to his own part of the town.
-
-
-
 
 == Chapter XXIII: CONFESSION
 
@@ -13159,9 +13102,6 @@ There was a pause, then Thyrza resumed:
 
 The other sighed deeply, and after that lay still.
 
-
-
-
 == Chapter XXIV: THE END OF THE DREAM
 
 Gilbert did not go to work next morning. Though Lydia had disguised her
@@ -13984,9 +13924,6 @@ often use words like that, but I mean it to-night. Good-bye!’
 
 She allowed him to walk away.
 
-
-
-
 == Chapter XXV: A BIRD OF THE AIR
 
 When Paula had been three or four days wedded, it occurred to her to
@@ -14413,13 +14350,11 @@ to compare them.
 
 Annabel rose, murmuring old words:
 
+[quote]
 ''Therefore I praised the dead which are already dead more than the
 living which are yet alive. Yea, better is he than both they, which
 hath not yet been, who hath not seen the evil work which is done under
 the sun.''
-
-
-
 
 == Chapter XXVI: IDEALIST AND HIS FRIEND
 
@@ -15080,9 +15015,6 @@ At a late hour he went to his bedroom. He lay down with a weary brain,
 and, in trying to ask himself what he should do on the morrow, fell
 asleep.
 
-
-
-
 == Chapter XXVII: FOUND
 
 Mrs. Ormonde waited anxiously for Annabel’s first letter from London.
@@ -15117,7 +15049,8 @@ frequently—dirtiness announced such cases—made appeal for temporary
 assistance. The present missive, however, was misleading; its contents
 proved to be these:
 
-
+[quote,SARAH GANDLE.]
+____
 ‘Madam,—We have a young girl with us as lies very bad. She come to us
 not more than three week ago and asked for ployment, and me and my
 husband wasn’t unwilling for to give her a chance, seeing she looked
@@ -15134,9 +15067,7 @@ do lie very bad, and if so be she has friends, they had ought to know.
 I do what I can for her, but I have the customers to tend to, because
 we keep a coffee-shop, which you’ll find it at Number seventeen, Bank
 Street, off the Caledonian Road. And I beg to end. From yours obedient,
-
-SARAH GANDLE.’
-
+____
 
 There could be little doubt who this young girl was. Bad spelling and
 worse writing rendered the letter difficult to translate into English,
@@ -15861,9 +15792,6 @@ assisted in carrying the invalid upstairs, where a bright warm room was
 in readiness—as pleasant a change after the garret in Bank Street as
 any one could have desired.
 
-
-
-
 == Chapter XXVIII: HOPE SURPRISED
 
 Mrs. Tyrrell and Annabel were lunching with friends somewhere: Mr.
@@ -16460,9 +16388,6 @@ pearl hue.
 One glance at the upper windows of the house, and then, with strength
 which seemed to pass into her limbs from the sharp air, she set out for
 the cottage which was her present home.
-
-
-
 
 == Chapter XXIX: TOGETHER AGAIN
 
@@ -17147,9 +17072,6 @@ drink ecstasy from the live air.
 the grey old deep. ‘It’s made me well again, Lyddy. I shall always love
 the sound of it, and the salt taste on my lips!’
 
-
-
-
 == Chapter XXX: MOVEMENTS
 
 ‘We are going first of all to the Pilkingtons', in Warwickshire,’ said
@@ -17344,7 +17266,10 @@ both have some!—to make up for the defects. We’ll go back to our
 books—oh! _you_ have never left them; but I, poor sinner that I am--!
 Give me my Dante, and let me feel him between my hands! Where is Virgil?
 
-  Heu! fuge crudeles terras, fuge litus avarum.
+[quote]
+____
+Heu! fuge crudeles terras, fuge litus avarum.
+____
 
 Is it quoted right? Is it apropos?’
 
@@ -17593,9 +17518,6 @@ essential matters.’
 
 Paula disappeared, and Mr. Dalmaine sat reflecting with much
 self-approbation on the firmness and suavity he had displayed.
-
-
-
 
 == Chapter XXXI: AN OLD MAN’S REST
 
@@ -18197,9 +18119,6 @@ in very low voices, often with long intervals of silence. Two poor
 girls, the one as ignorant as the other, but speaking with awed spirit
 of death and the hope that is thereafter.
 
-
-
-
 == Chapter XXXII: TOTTY’S LUCK
 
 ‘The Little Shop with the Large Heart’ had suffered a grave loss: Miss
@@ -18792,9 +18711,6 @@ months.’
 Totty reddened, and inwardly reproached herself with complete meanness.
 But she was glad—and Luke Ackroyd was glad.
 
-
-
-
 == Chapter XXXIII: THE HEART AND ITS SECRET
 
 Thyrza was not to be a boarder with the Emersons, nor did Mrs. Ormonde
@@ -19204,9 +19120,6 @@ could sit by anybody that was dying. I hope, I hope I may die in that
 way!’
 
 Lydia was shocked, and wondered grieving.
-
-
-
 
 == Chapter XXXIV: A LOAN ON SECURITY
 
@@ -19991,13 +19904,11 @@ Totty went back, and fondled Nelly against her side, and explained why
 the threatened change of abode had made her act with such
 independence—characteristic to the end.
 
-
-
-
 == Chapter XXXV: THREE LETTERS
 
-_Walter Egremont to Mrs. Ormonde._
-
+.Walter Egremont to Mrs. Ormonde.
+[quote]
+____
 ‘Where I to spend the rest of my natural life in this country—which
 assuredly I have no intention of doing—I think I should never settle
 down to an hour’s indulgence of those tastes which were born in me, and
@@ -20125,9 +20036,11 @@ doing your utmost to make her forget that she is alone? You do not see
 her very frequently, I fear. I beg you to write to her often, the
 helpful letters you can write to those whom you love. She can repay you
 for all trouble with one look of gratitude.’
+____
 
-(_Three months later_.)
-
+.(Three months later.)
+[quote]
+____
 ‘I am sending you Whitman’s ‘Leaves of Grass.’ I see from your last
 letter that you have not yet got the book, and have it you must. It is
 idle to say that you cannot take up new things, that you doubt whether
@@ -20159,12 +20072,15 @@ distance’—to joy in fields and hillsides, joy in ‘the dropping of
 rain-drops in a song,’ joy in the fighter’s strength, joy in the life
 of the fisherman, in every form of active being—aye, and
 
-  Joys of the free and lonesome heart, the tender, gloomy heart,
-  Joys of the solitary work, the spirit bow’d yet proud, the
-      suffering and the struggle;
-  The agonistic throes, the ecstasies, joys of the solemn musings
-      day or night;
-  Joys of the thought of Death, the great spheres Time and Space!
+[verse]
+____
+Joys of the free and lonesome heart, the tender, gloomy heart,
+Joys of the solitary work, the spirit bow’d yet proud, the
+	suffering and the struggle;
+The agonistic throes, the ecstasies, joys of the solemn musings
+	day or night;
+Joys of the thought of Death, the great spheres Time and Space!
+____
 
 What would not I give to know the completeness of manhood implied in
 all that? Such an ideal of course is not a new-created thing for me,
@@ -20264,9 +20180,12 @@ something of her. It is very likely that she’s married—to whom, now?
 Her husband should be an interesting man, one I should like some day to
 know. Or is she another example of the unaccountable things women will
 do in marriage? Pray Heaven not!’
+____
 
-(_Eight months after the last_.)
+.(Eight months after the last.)
 
+[quote]
+____
 ‘I have just been reading a leader in the _New York Herald_ wherein
 there is mention of Dalmaine’s factory bill. Dalmaine is spoken of with
 extreme respect; his measure is one of those which ‘largely testify to
@@ -20376,9 +20295,7 @@ only surprise and alarm and trouble her.
 ‘Things must rest till I see you. I will cable from New York when I am
 starting for Europe. I shall be glad to see England again, glad to
 leave trade behind me, thrice glad to hold your hand.’
-
-
-
+____
 
 == Chapter XXXVI: THYRZA WAITS
 
@@ -20774,9 +20691,6 @@ sought for something in its pages. Then she began to attire herself for
 going out. She looked into her purse. In a few minutes she went quietly
 down the stairs, as if for an ordinary walk, and left the house.
 
-
-
-
 == Chapter XXXVII: A FRIENDLY OFFICE
 
 On the Friday when Thyrza, in her happiness, had said ‘Tomorrow he
@@ -21162,9 +21076,6 @@ Thyrza loved—spoke to him. Could he not understand their language?...
 
 On Monday morning he took the train to London, thence northwards. A
 visit to the Newthorpes after two years of absence was natural enough.
-
-
-
 
 == Chapter XXXVIII: THE TRUTH
 
@@ -21724,9 +21635,6 @@ I said to you, Mrs. Ormonde.’
 But the other could not bear it. She kissed Thyrza’s hands, her tears
 falling upon them, and went away.
 
-
-
-
 == Chapter XXXIX: HER RETURN
 
 It was a rainy autumn, and to Thyrza the rain was welcome. A dark,
@@ -21886,7 +21794,8 @@ Thyrza was very silent after this.
 Two weeks later, when the new year was frost-bound, Lydia received this
 letter from her sister.
 
-
+[quote]
+____
 ‘I want to come and see you in the old room, as I said I should, and at
 the same time I want to see Gilbert. But I must see him alone. I could
 come at night, and you could be at the door to let me in, couldn’t you,
@@ -21895,7 +21804,7 @@ after that. You may tell him that I am coming, and ask him if he will
 see me. I hope he won’t refuse. Write and let me know when I shall be
 at the door—to-morrow night, if possible. You will be able to send a
 letter that I shall get by the first post in the morning.’
-
+____
 
 Had the visit proposed been a secret one, to herself alone, Lydia would
 not have been much surprised, as Thyrza had several times of late said
@@ -22164,9 +22073,6 @@ parted. ‘And perhaps I shall stay over Sunday. May I?’
 ‘Do!’
 
 ‘Be at the door again at the same time.’
-
-
-
 
 == Chapter XL: HER REWARD
 
@@ -22670,9 +22576,6 @@ The next morning, Lydia went to her work as usual. Gilbert had already
 returned to his. The clear winter sunshine was already a thing of the
 far past; in the streets was the slush of thaw, and darkness fell early
 from the obscured sky.
-
-
-
 
 == Chapter XLI: THE LIVING
 
