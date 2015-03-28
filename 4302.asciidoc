@@ -6,7 +6,7 @@ George Gissing
 == Chapter I: AMONG THE HILLS
 
 There were three at the breakfast-table—Mr. Newthorpe, his daughter
-Annabel, and their visitor (Annabel’s Cousin), Miss Paula Tyrrell. It
+Annabel, and their visitor (Annabel’s cousin), Miss Paula Tyrrell. It
 was a small, low, soberly-furnished room, the walls covered with
 carelessly-hung etchings and water-colours, and with photographs which
 were doubtless mementoes of travel; dwarf bookcases held overflowings
@@ -201,7 +201,7 @@ is better?’
 
 ‘I have broken in upon your reading.’
 
-She exhibited the volume; it was Buskin’s ‘Sesame and Lilies.’
+She exhibited the volume; it was Ruskin’s ‘Sesame and Lilies.’
 
 ‘Ah! you got it; and like it?’
 
@@ -700,7 +700,7 @@ without a thought of political or social purpose—especially without a
 thought of cash profit, which is so disastrously blended with what
 little knowledge they acquire—I shall be on the way to founding my
 club of social reformers. I shall be most careful not to alarm them
-with hints that I mean more than I say. Here arc certain interesting
+with hints that I mean more than I say. Here are certain interesting
 English books; let us see what they are about, who wrote them, and why
 they are deemed excellent. That is our position. These men must get on
 a friendly footing with me. Little by little I shall talk with them
@@ -725,7 +725,7 @@ good-night.’
 
 Her uncle, when he held her hand, stroked it affectionately. He often
 laughed at the child’s manifold follies, but her prettiness and the
-_naivete_ which sweetened her inbred artificiality had won his liking.
+_naïveté_ which sweetened her inbred artificiality had won his liking.
 Much as it would have astonished Paula had she known it, his feeling
 was for the most part one of pity.
 
