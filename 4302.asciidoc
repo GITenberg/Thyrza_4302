@@ -1272,7 +1272,7 @@ round the first thing on Monday morning.’
 The information was given.
 
 ‘You just make a note o’ that in your head, Mary, my dear,’ the old mam
-continued. ''Taint very likely I’ll forget, but my memory do play me a
+continued. ‘’Taint very likely I’ll forget, but my memory do play me a
 trick now and then. Ask me about things as happened fifty years ago,
 and I’ll serve you as well as the almanac. It’s the same with my eyes.
 I used to be near-sighted, and now I’ll read you the sign-board across
@@ -1464,7 +1464,7 @@ unprofitable thing anyone can argue about.’
 
 ‘Have you had your tea?’ Mrs. Bower asked of Lydia.
 
-‘No; but I mustn’t stop to have any, thank you, Mrs. Bower. Thyrza ’ll
+‘No; but I mustn’t stop to have any, thank you, Mrs. Bower. Thyrza’ll
 think I’m never coming home. I only looked in just to ask Mary to come
 and have tea with us tomorrow.’
 
@@ -1485,7 +1485,7 @@ He nodded a leave-taking and went.
 work this morning, but she couldn’t make up her mind to stay at home.
 The hot weather makes her restless.’
 
-‘It’s dreadful tryin'!’ sighed Mrs. Bower.
+‘It’s dreadful tryin’!’ sighed Mrs. Bower.
 
 ‘But I really mustn’t stay, and that’s the truth.’ She rose from her
 chair. ‘Where do you think I’ve been, Mary? Mrs. Isaacs sent round this
@@ -1523,7 +1523,7 @@ out to-morrow after tea?’
 
 Lydia kept her eyes down.
 
-‘I don’t know, Mr. Ackroyd,’ she answered. ‘I’ll ask her; I don t think
+‘I don’t know, Mr. Ackroyd,’ she answered. ‘I’ll ask her; I don’t think
 she’s going anywhere.’
 
 ‘It won’t be like last Sunday?’
@@ -1531,7 +1531,7 @@ she’s going anywhere.’
 ‘She really didn’t feel well. And I can’t promise, you know Mr.
 Ackroyd.’
 
-She met his eyes for an instant, then looked along the street There was
+She met his eyes for an instant, then looked along the street. There was
 a faint smile on her lips, with just a suspicion of some trouble.
 
 ‘But you _will_ ask her?’
@@ -1675,7 +1675,7 @@ Thyrza drew a deep sigh.
 ‘Because he thinks a great deal of you, and it would be nice if you got
 to like him.’
 
-‘But I shan’t, never;--I know I shan’t.’
+‘But I shan’t, never;—I know I shan’t.’
 
 ‘Why not, dear?’
 
@@ -1695,7 +1695,7 @@ friends across the street. People were going backwards and forwards
 with bags and baskets, on the business of Saturday evening; in the
 distance sounded the noise of the market in Lambeth Walk.
 
-Shortly after eight o’clock Lydia said
+Shortly after eight o’clock Lydia said:
 
 ‘I’ll just go round with my boots, and get something for dinner
 to-morrow.’
@@ -1825,7 +1825,7 @@ retreat, with low, cracked, grimy ceiling, and one scrap of carpet on
 the floor, just by the diminutive bed. On a table lay the provisions
 she had that afternoon brought in from Mrs. Bower’s. On the
 mantel-piece was a small card, whereon was printed an announcement of
-the friendly lead; at the bead stood the name of a public-house, with
+the friendly lead; at the head stood the name of a public-house, with
 that of its proprietor; then followed: ‘A meeting will take place at
 the above on Saturday evening, August 2, for the benefit of Bill
 Mennie, the well-known barber of George Street, who has been laid up
@@ -2090,7 +2090,7 @@ that? I know now what Mr. Boddy means when he talks so about your
 voice. Won’t you take my arm, Miss Trent?’
 
 ‘I feel quite well again, thank you,’ she replied. ‘I’d no business to
-be there, Mr. Ackroyd. Lyddy ’ll be very angry; she can’t help hearing.’
+be there, Mr. Ackroyd. Lyddy’ll be very angry; she can’t help hearing.’
 
 ‘No, no! she won’t be angry. You tell her at once. You were with Totty
 Nancarrow, I suppose? Oh, it’ll be all right. But of course it isn’t
@@ -2228,9 +2228,9 @@ the way.
 ‘Let me go! What right have you to stop me?’
 
 Then both were silent. At the same moment they became aware that a
-common incident of Saturday night was occurring had got thus far on
-their way home, the wife’s shrill tongue in the street below. A
-half-tipsy man and a nagging woman running over every scale of
+common incident of Saturday night was occurring in the street below. 
+A half-tipsy man and a nagging woman had got thus far on their
+way home, the wife’s shrill tongue running over every scale of
 scurrility and striking every note of ingenious malice. The man was at
 length worked to a pitch of frenzy, and then—thud, thud, mingled with
 objurgations and shrill night-piercing yells. Fury little short of
@@ -2370,7 +2370,7 @@ The words had come involuntarily; the voice shook as they were spoken.
 
 ‘I don’t mean to be, Lyddy—you know I don’t.’
 
-‘But you do things that you know ’ll make me angry. I’m quick-tempered,
+‘But you do things that you know’ll make me angry. I’m quick-tempered,
 and I couldn’t bear to think of you going to that place; I ought to
 have spoke in a different way.’
 
@@ -2398,12 +2398,12 @@ you to love me more than anyone else!’
 
 ‘I do, Lyddy! I do, dear! It’s only that I—’
 
-‘What--?’
+‘What—?’
 
 ‘I don’t know how it is. I’m discontented. There’s never any change.
 How can you be so happy day after day? I love to be with you, but—if
 we could go and live somewhere else! I should like to see a new place.
-I’ve been reading there about the seaside what it must be like! I want
+I’ve been reading there about the seaside; what it must be like! I want
 to know things. You don’t understand me?’
 
 ‘I think I do. I felt a little the same when I heard Mrs. Isaacs and
@@ -2481,11 +2481,11 @@ despondently from a window or sat in view within, dozing over the
 Sunday paper.
 
 A rattling of light wheels drew near, and a nasal voice cried
-''Okey-pokey! ‘Okey-'okey-'okey Penny a lump!’ It was the man who sold
+‘’Okey-pokey! ’Okey-’okey-’okey Penny a lump!’ It was the man who sold
 ice-cream. He came to a stop, and half a dozen boys gathered about his
 truck. The delicacy was dispensed to them in little green and yellow
 glasses, from which they extracted it with their tongues. The vendor
-remained for a few minutes, then on again with his ''Okey’-okey-'okey!’
+remained for a few minutes, then on again with his ‘’Okey-’okey-’okey!’
 sung through the nose.
 
 Next came a sound of distressful voices, whining the discords of a
@@ -2530,12 +2530,12 @@ going past with Mary, not long after?’
 ‘But I know you don’t mind it, Lyddy. It isn’t the first thing you’ve
 done for me.’
 
-It was said with so much _naivete_ that Lydia could not but laugh.
+It was said with so much _naïveté_ that Lydia could not but laugh.
 
 ‘I should like it much better if you’d go yourself,’ she replied. ‘But
 I’m afraid it’s no good asking.’
 
-‘Not a hit! And, Lyddy, I told Mr. Ackroyd that it would always be the
+‘Not a bit! And, Lyddy, I told Mr. Ackroyd that it would always be the
 same. He understands now.’
 
 The other made no reply.
@@ -2983,7 +2983,7 @@ she did not wish to stay longer.
 
 ‘Going already?’ Mrs. Grail said, seeing her rise.
 
-‘Lyddy ’ll be back very soon,’ was the reply. ‘I think I’d better go
+‘Lyddy’ll be back very soon,’ was the reply. ‘I think I’d better go
 now.’
 
 She shook hands with both of them, and they heard her run up the
@@ -3018,7 +3018,7 @@ sister was a child. He nodded.
 ‘It was Mrs. Green’s school, you know, and soon after Lizzie began to
 go, there was an assistant teacher taken on. Now can you think what her
 name was? You must remember that Lizzie used to walk home along with
-her almost every day. Miss--, Miss--. Oh, dear me, what _was_ that
+her almost every day. Miss—, Miss—. Oh, dear me, what _was_ that
 name?’
 
 Gilbert smiled and shook his head.
@@ -3166,7 +3166,7 @@ have sold his handful of books, sold them in sheer bitterness of mind,
 but this his mother interfered to prevent.
 
 But he could not live so. There was now a danger that the shadow of
-misery would darken into madness, Little by little he resumed his
+misery would darken into madness. Little by little he resumed his
 studious habits, yet with prudence. At thirty his bodily strength
 seemed to have consolidated itself; if he now and then exceeded the
 allotted hours at night, he did not feel the same evil results as
@@ -3295,7 +3295,7 @@ bodily strength he might. Before entering his bedroom, which was next
 to the parlour, he went to the house-door and opened it quietly. A soft
 rain was falling. Leaving the door ajar, he stepped out into the street
 and looked up to the top windows. There was no light behind the blinds.
-As if satisfied, he went hack into the house and to his room.
+As if satisfied, he went back into the house and to his room.
 
 The factory was at so short a distance from Walnut Tree Walk that
 Gilbert was able to come home for breakfast and dinner. When he entered
@@ -3510,7 +3510,7 @@ another funeral from the house. Mrs. Ormonde remained alone.
 
 It was in this room that Egremont had waited for the mother’s coming,
 that morning when he returned companionless from the beach. He was then
-but two-and-twenty; big task was as terrible as a man can be called
+but two-and-twenty; his task was as terrible as a man can be called
 upon to perform. Mrs. Ormonde had the strength to remember that; she
 shed no tears, uttered no lamentations. When, after a few questions,
 she was going silently from the room, Walter, his own eyes blinded,
@@ -3669,7 +3669,7 @@ night.’
 wonder whether she still reads that insufferable publication.
 By-the-by, I found you had told them the story at Ullswater.’
 
-‘Yes. It came up _a propos_ of my scheme.’
+‘Yes. It came up _à propos_ of my scheme.’
 
 A gong sounded down below.
 
@@ -4014,13 +4014,12 @@ home of his good plain father, would have felt what now he did. The
 soil was there, but how much do we not owe to tillage. Read what
 Egremont on one occasion read to these men:
 
-[quote]
-'“He beginneth not with obscure definitions, which must blur the
+‘He beginneth not with obscure definitions, which must blur the
 margins with interpretations and load the memory with doubtfulness: but
 he cometh to you with words set in delightful proportion, either
 accompanied with or prepared for the well-enchanting skill of music and
 with a tale forsooth he cometh unto you—with a tale which holdeth
-children from play, and old men from the chimney-corner.”'
+children from play, and old men from the chimney-corner.’
 
 What were _that_ to you, save for the glow of memory fed with incense
 of the poets?—save for innumerable dear associations, only possible to
