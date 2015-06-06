@@ -4655,7 +4655,7 @@ Whilst the portly man thus delivered himself, Lydia let her arm rest on
 Mr. Boddy’s shoulder. It was a caress which he sometimes received from
 her; he looked round at her affectionately, then continued to pay
 attention to the weighty words which fell from Mr. Bower. Mrs. Bower,
-who was loss impressed by her husband’s utterances, bent over her
+who was less impressed by her husband’s utterances, bent over her
 sewing. In this way Lydia was able craftily to secure the measurement
 she needed. And having got this, she was anxious to be back with Thyrza.
 
@@ -4674,7 +4674,7 @@ with us?’
 Lydia east down her eyes.
 
 ‘It’s very kind of you, Mrs. Bower, but I’m sure I don’t know whether
-Thyrza ’ll be well enough. I must be very careful of her for a time.’
+Thyrza’ll be well enough. I must be very careful of her for a time.’
 
 ‘Well, well, you’ll see. It’ll only be a quiet little fam'ly dinner
 this year. You’ll know there’s places kep’ for you.’
@@ -4767,7 +4767,7 @@ that we could see it together in daylight—if daylight be granted us?’
 
 Grail expressed his readiness.
 
-‘You were reading,’ Waiter went on, with a glance at the table. ‘I
+‘You were reading,’ Walter went on, with a glance at the table. ‘I
 mustn’t waste your time.’
 
 He rose, but Gilbert said:
@@ -4854,7 +4854,7 @@ Egremont had already stumbled over an ascent of two when the warning
 was given, but at the same moment a door was thrown open, giving a view
 of the main schoolroom.
 
-''Tain’t swep’ out yet,’ remarked the old woman. ‘I couldn’t tell as
+‘’Tain’t swep’ out yet,’ remarked the old woman. ‘I couldn’t tell as
 nobody was a-comin'. You can complain to them if you like; I’m used to
 it from all sorts, an’ ‘taint for much longer, praise goodness! Though
 there’s nothink before me but the parish when the time does come.’
@@ -5211,7 +5211,7 @@ he could best realise this great joy that had befallen him.
 But the wind blew piercingly, and when at length he moved from the
 parapet, he found that his arms were quite numb; doubtless he had stood
 longer than he thought. Instead of returning by the direct way, he
-walked along the Embankment It was all but deserted; the tread of a
+walked along the Embankment. It was all but deserted; the tread of a
 policeman echoed from the distance. But in spite of the bitter sky, two
 people were sitting together on one of the benches—a young man and a
 work-girl; they were speaking scarcely above a whisper. Gilbert averted
@@ -5327,7 +5327,7 @@ think, how joyfully he would throw aside that one overcoat he did
 possess—a garment really too far gone, and with no pretence of warmth
 in it. Thyrza introduced a note of sadness by asking:
 
-‘What ’ll happen, Lyddy, if he gets that he can’t earn any thing?’
+‘What’ll happen, Lyddy, if he gets that he can’t earn any thing?’
 
 ‘I sometimes think of that,’ Lydia replied gravely. ‘We couldn’t expect
 the Bowers to keep him there if he couldn’t pay his rent. But I always
@@ -5386,7 +5386,7 @@ together you might do me good. But Lyddy treats me like a spoilt child.
 It’s her old way.’
 
 ‘Mary shall take us both in hand,’ said Lydia. ‘She shall cure me of my
-sharp temper and you of grumbling, grandad; and I know which ’ll be the
+sharp temper and you of grumbling, grandad; and I know which’ll be the
 hardest job!’
 
 Laughing with kindly mirth, the old man drew on his woollen gloves and
@@ -5416,7 +5416,7 @@ Then Mr. Boddy understood. He looked from Lydia to Thyrza with dimmed
 eyes.
 
 ‘I’ve a good mind never to speak to either of you again,’ he said in a
-tremulous voice. ’As if you hadn’t need enough of your money! Lyddy,
+tremulous voice. ‘As if you hadn’t need enough of your money! Lyddy,
 Lyddy! And you’re as bad, Thyrza; a grown-up woman like you, you ought
 to teach your sister better. Why there; it’s no good; I don’t know what
 to say to you. Now what do you think of this, Mary?’
@@ -5816,14 +5816,14 @@ she raised it, to ask solemnly:
 
 ‘No, no, no!’
 
-‘Blue-eyes, nobody ’ll ever love me but you. And I don’t think I shall
+‘Blue-eyes, nobody’ll ever love me but you. And I don’t think I shall
 ever have a sad minute if I see that you’re happy. I do hope you’ve
 done right.’
 
 ‘I’m sure I have, Lyddy. You must tell Mary to-morrow. And
 grandad—think how surprised they’ll be! Of course, everybody’ll know
 soon. I shall go to work to-morrow, you know I’m quite well again. And
-Lyddy, when I’m Mrs. Grail of course, Mr. Ackroyd ’ll come and see us.’
+Lyddy, when I’m Mrs. Grail of course, Mr. Ackroyd’ll come and see us.’
 
 Lydia made no reply to this. She could not tell what had happened
 between herself and Mary Bower, and the mention of Ackroyd’s name was
@@ -5869,7 +5869,7 @@ yet it means a good deal to me—more than you think, I dare say.’
 ‘You’ll soon forget it, Mr. Ackroyd,’ Lydia said, in a clear, steady
 voice.
 
-‘Well, you ’ll see if I do. I’m one of the unlucky fellows that can
+‘Well, you’ll see if I do. I’m one of the unlucky fellows that can
 never show what they feel. It all comes out in the wrong way. It
 doesn’t matter much now.’
 
@@ -6043,7 +6043,7 @@ must needs respect, so gracefully and sweetly do they accept happiness
 as their right.
 
 Mr. Dalmaine joined these ladies with the manner of the sturdy Briton
-who would make himself agreeable yet dreads the _petit maitre_. His
+who would make himself agreeable yet dreads the _petit maître_. His
 voice would have been better if a little more subdued; he seated
 himself with perhaps rather more of ease than of grace; but on the
 whole Society would have let him pass muster as a well-bred man.
@@ -6169,7 +6169,7 @@ Egremont. She held her charming head erect, and let her eyelids droop a
 little, and the few words which she addressed to him were rather
 absently spoken. With others, as they arrived, she was sportively
 intimate. Her bearing had gained a little in maturity during the past
-half year, but it was still with a blending of _naivete_ and capricious
+half year, but it was still with a blending of _naïveté_ and capricious
 affectation that she wrought her spell. Her dress was a miracle, and
 inseparably a part of her; it was impossible to picture her in any
 serious situation, so entirely was she a child of luxury and frivolous
@@ -6380,7 +6380,7 @@ Paula looked surprised.
 
 ‘Don’t you hear from—from them?’
 
-‘I have a letter from Mr. Newthorpe very occasionally But surely the
+‘I have a letter from Mr. Newthorpe very occasionally. But surely the
 illness has not been serious?’
 
 ‘Mamma heard this morning about it. I don’t know what’s been the
@@ -6474,8 +6474,8 @@ doesn’t only do it for fun.’
 reform, pooh! Why, who are the real social reformers? The men who don’t
 care a scrap for the people, but take up ideas because they can make
 capital out of them. It isn’t idealists who do the work of the world,
-but the hard-headed, practical, selfish men. A big employer of labour
-’ll do more good in a day, just because he sees profit ’ll come of it,
+but the hard-headed, practical, selfish men. A big employer of labour’ll
+do more good in a day, just because he sees profit’ll come of it,
 than all the mooning philanthropists in a hundred years. Nothing solid
 has ever been gained in this world that wasn’t pursued out of
 self-interest. Look at Dalmaine. How much do you think he cares for the
@@ -6678,7 +6678,7 @@ dared to hope for.’
 comes to make up to me for some little disappointment in other things.
 I’m afraid the lectures have been of very slight use.’
 
-‘I don’t think that. I don’t think any of the class ’ll forget them.
+‘I don’t think that. I don’t think any of the class’ll forget them.
 It’s likely they’ll have their best effect in a little time; the men
 ’ll think back upon them. Now Bunce has got much out of them, I
 believe.’
@@ -6722,7 +6722,7 @@ a moment he mused in misgiving over his ‘Thoughts for the Present.’
 They began to talk of those details in the library scheme which
 Egremont had left for subsequent discussion.
 
-’As soon as the premises are in my hands,’ he said, ‘I shall have the
+‘As soon as the premises are in my hands,’ he said, ‘I shall have the
 house thoroughly repaired. I should like you to see then if any
 alteration can be made which would add to your comfort. As soon as the
 place can be made ready, it will be yours to take possession of. That
