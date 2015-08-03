@@ -2,7 +2,13 @@
 Thyrza
 ======
 
-This is a git repository of the source files for the book Thyrza by George Gissing. This book is in the Public Domain, see the LICENSE file for details.
+This is a Git repository of the source files for the book *Thyrza* by George Gissing, first published in 1887. This book is in the Public Domain, see the LICENSE file for details.
+
+This book has been proofread against the following print edition:
+
+* Volume 1: https://archive.org/details/thyrzatale01giss
+* Volume 2: https://archive.org/details/thyrzatale02giss
+* Volume 3: https://archive.org/details/thyrzatale03giss
 
 Found an error?
 ===============
